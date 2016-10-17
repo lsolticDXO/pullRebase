@@ -1,2 +1,3 @@
+// Some code comment to clarify
 Another file with some random contents.
 And more work on another branch.
